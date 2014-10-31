@@ -17,7 +17,7 @@ or with numbers!
 2. Drink the milk
 3. Tweet that I remembered to buy the milk, and drank it
 
-### Links
+### Links 
 
 Want to link to a source? No problem. If you paste in a URL, like http://ghost.org - it'll automatically be linked up. But if you want to customise your anchor text, you can do that too! Here's a link to [the Ghost website](http://ghost.org). Neat.
 
